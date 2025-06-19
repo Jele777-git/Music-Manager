@@ -42,6 +42,10 @@ https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%2
 https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%20115843.png
 
 
+GitHub link 
+https://github.com/Jele777-git/Music-Manager.git
+
+
 # Technical Implemention
 
 -Uses Array and loops for data processing 
