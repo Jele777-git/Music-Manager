@@ -1,5 +1,17 @@
 # Music-Manager
 
+Unforunetly i tried to submit before time but my Device Battery Powered off and i didnt request for my VM , kind regards 
+
+
+# Features
+
+-Add somgs to playlist with title , artist , rating (1-5),and comments 
+- View detailed playlist with all song information
+- -Comprehensive errror handling
+- 2 activities navigation 
+
+
+#Screenshot
 
 https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%20112017.png
 
@@ -28,3 +40,9 @@ https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%2
 https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%20115823.png
 
 https://github.com/Jele777-git/Music-Manager/blob/main/Screenshot%202025-06-19%20115843.png
+
+
+# Technical Implemention
+
+-Uses Array and loops for data processing 
+-RecyleView for efficient Design
